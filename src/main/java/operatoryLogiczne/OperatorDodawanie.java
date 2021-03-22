@@ -16,6 +16,7 @@ public class OperatorDodawanie {
         System.out.println(a>b);
         System.out.println(a==b);
         System.out.println("bla");
+        System.out.println("pawelek");
     }
 
 }
