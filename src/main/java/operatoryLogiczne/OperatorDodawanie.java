@@ -15,6 +15,7 @@ public class OperatorDodawanie {
         System.out.println("Czy a jes mniejsze od b? Odp = " + (a<b));
         System.out.println(a>b);
         System.out.println(a==b);
+        System.out.println("bla");
     }
 
 }
