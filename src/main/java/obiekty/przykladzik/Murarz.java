@@ -10,13 +10,15 @@ public class Murarz {
         this.imie = imie;
     }
 
+
     public String getImie() {
         return imie;
     }
-//
+
     public void setImie(String imie) {
         this.imie = imie;
     }
+
 
     // metody - one sa po to, bo obiekt istnieje tylko po to by robil cos. Np - murarz muruje, telefon  dzwoni, pisak pisze itp itd
     public void murujSciane() {
@@ -24,10 +26,13 @@ public class Murarz {
     }
 
 
-    public int dodawanie(int a, int b) {
-        int wynik = a + b;
-        return wynik;
-    }
+
+
+
+ //   public int dodawanie(int a, int b) {
+ //       int wynik = a + b;
+ //       return wynik;
+ //   }
 
 
 }

@@ -7,16 +7,19 @@ public class MurarzMain {
 
         // Konstruuje obiek:
         Murarz janek = new Murarz("Janek");
-        Murarz mirek = new Murarz("Mirek");
+
 
         // dzieki zmiennej 'janek' mogę znależć murarza w pamięci komputra
 
         janek.murujSciane();
-        mirek.murujSciane();
 
-        janek.dodawanie(88, 81281);
-        int dodawanie = janek.dodawanie(88, 81281);
-        System.out.println(dodawanie);
+
+
+
+
+ //       janek.dodawanie(88, 81281);
+ //       int dodawanie = janek.dodawanie(88, 81281);
+ //       System.out.println(dodawanie);
 
         System.out.println(janek.getImie());
 
@@ -24,7 +27,6 @@ public class MurarzMain {
 
         System.out.println(janek.getImie());
 
-//        mirek.murujSciane();
 
 
     }
