@@ -8,4 +8,10 @@ public class Nocne {
         System.out.println("NOCCCCCC");
     }
 
+
+    public void noc222(String napisDoWyswietlenia)
+    {
+        System.out.println(napisDoWyswietlenia);
+    }
+
 }

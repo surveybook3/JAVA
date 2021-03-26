@@ -10,5 +10,11 @@ public class nocneMain {
         night.noc();
 
 
+        Nocne night2 =   new Nocne();
+
+        night2.noc222("Hej Tu Pawel");
+
+
     }
+
 }
